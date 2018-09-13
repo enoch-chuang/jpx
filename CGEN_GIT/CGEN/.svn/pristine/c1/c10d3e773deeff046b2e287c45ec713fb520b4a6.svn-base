@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-egtQIv0EeKEHaJx4-zWtw" id="_-egGMIv0EeKEHaJx4-zWtw" label="NetezzaCreateTargetTable" creationDate="2013-03-13T11:45:05.556-0400" modificationDate="2013-03-13T11:45:05.556-0400" version="0.1" item="_-egtQov0EeKEHaJx4-zWtw">
+    <author href="../../../talend.project#_8d0n5ov0EeKUoMyrtK_jng"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-egtQYv0EeKEHaJx4-zWtw" path="Netezza/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_-egtQov0EeKEHaJx4-zWtw" property="_-egtQIv0EeKEHaJx4-zWtw" state="_-egtQYv0EeKEHaJx4-zWtw" system="true" eltName="Netezza">
+    <content href="NetezzaCreateTargetTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-nH2sYv0EeKEHaJx4-zWtw" id="_-nH2sIv0EeKEHaJx4-zWtw" label="OracleFilterColumns" creationDate="2013-03-13T11:45:06.459-0400" modificationDate="2013-03-13T11:45:06.459-0400" version="0.1" item="_-nH2s4v0EeKEHaJx4-zWtw">
+    <author href="../../../talend.project#_8d0n5ov0EeKUoMyrtK_jng"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-nH2sov0EeKEHaJx4-zWtw" path="Oracle/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_-nH2s4v0EeKEHaJx4-zWtw" property="_-nH2sYv0EeKEHaJx4-zWtw" state="_-nH2sov0EeKEHaJx4-zWtw" system="true" eltName="Oracle">
+    <content href="OracleFilterColumns_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>
