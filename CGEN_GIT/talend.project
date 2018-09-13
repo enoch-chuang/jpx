@@ -82,6 +82,18 @@
         <elementParameter xmi:id="_XaezzLdtEeicebuCt8LX-g" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
+    <ItemsRelations xmi:id="_ITWxoLdvEeicebuCt8LX-g">
+      <baseItem xmi:id="_ITWxobdvEeicebuCt8LX-g" id="__TcQULduEeicebuCt8LX-g" version="0.1" type="job"/>
+      <relatedItems xmi:id="_ITWxordvEeicebuCt8LX-g" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxo7dvEeicebuCt8LX-g" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxpLdvEeicebuCt8LX-g" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxpbdvEeicebuCt8LX-g" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxprdvEeicebuCt8LX-g" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxp7dvEeicebuCt8LX-g" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxqLdvEeicebuCt8LX-g" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxqbdvEeicebuCt8LX-g" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ITWxqrdvEeicebuCt8LX-g" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_WPXrcLdtEeicebuCt8LX-g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WPXrcbdtEeicebuCt8LX-g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WPXrcrdtEeicebuCt8LX-g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
