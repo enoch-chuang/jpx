@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_242-8YccEeKMC9Xjh89LvQ" id="_24S-QIccEeKMC9Xjh89LvQ" label="IRDB" creationDate="2013-03-07T06:47:58.628-0500" modificationDate="2017-08-23T11:43:39.899-0400" version="0.1" statusCode="" item="_242-84ccEeKMC9Xjh89LvQ" displayName="IRDB">
+    <author href="../../talend.project#_8d0n5ov0EeKUoMyrtK_jng"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KbakIIv1EeKEHaJx4-zWtw" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_242-84ccEeKMC9Xjh89LvQ" property="_242-8YccEeKMC9Xjh89LvQ" state="_KbakIIv1EeKEHaJx4-zWtw">
+    <connection href="IRDB_0.1.item#_242-8IccEeKMC9Xjh89LvQ"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>
