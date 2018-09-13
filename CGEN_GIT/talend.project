@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_VvbAEbdtEeicebuCt8LX-g" label="cgen-git" language="java" technicalLabel="CGEN_GIT" creationDate="2018-09-13T10:38:56.470-0400" author="_VvbAErdtEeicebuCt8LX-g" productVersion="Talend Data Management Platform-6.1.1.20151214_1327" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/enoch-chuang/jpx&quot;,&quot;login&quot;:&quot;enoch-chuang&quot;,&quot;passwd&quot;:&quot;I/f6IX0OQ3b4glzLytqLMA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_VvbAErdtEeicebuCt8LX-g" login="pcapp@mail.nih.gov" firstName="pcapp" lastName="pcapp" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
