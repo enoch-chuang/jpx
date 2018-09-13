@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:XmlFileConnection xmi:id="__sdpcBrTEeOj-I66JtC7PQ" name="repository.metadataFileXml" dataPackage="__sdpcxrTEeOj-I66JtC7PQ" XmlFilePath="C:/xml/grantportfolio.xml" Encoding="UTF-8">
+    <schema xmi:id="__sdpcRrTEeOj-I66JtC7PQ" LimitBoucle="50000" AbsoluteXPathQuery="/grantPortfolioCmd/grant">
+      <schemaTargets xmi:id="_4oEHsBrVEeOj-I66JtC7PQ" RelativeXPathQuery="FY" TagName="FY"/>
+      <schemaTargets xmi:id="_5FUEYBrVEeOj-I66JtC7PQ" RelativeXPathQuery="appl_id" TagName="appl_id"/>
+      <schemaTargets xmi:id="__sdpchrTEeOj-I66JtC7PQ" RelativeXPathQuery="abstract_text" TagName="abstract_text"/>
+    </schema>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="__sdpcxrTEeOj-I66JtC7PQ" name="repository.metadataFileXml" dataManager="__sdpcBrTEeOj-I66JtC7PQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="__sdpdBrTEeOj-I66JtC7PQ" id="_JIgikBrTEeOj-I66JtC7PQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5-3ikBrVEeOj-I66JtC7PQ" label="FY" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5-3ikRrVEeOj-I66JtC7PQ" label="appl_id" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sdpdRrTEeOj-I66JtC7PQ" label="abstract_text" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

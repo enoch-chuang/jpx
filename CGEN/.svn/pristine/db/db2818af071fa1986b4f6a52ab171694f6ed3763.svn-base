@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-TyD8Iv0EeKEHaJx4-zWtw" id="_-Txc4Iv0EeKEHaJx4-zWtw" label="HiveDropSourceTable" creationDate="2013-03-13T11:45:04.431-0400" modificationDate="2013-03-13T11:45:04.431-0400" version="0.1" item="_-TyD8ov0EeKEHaJx4-zWtw">
+    <author href="../../../talend.project#_8d0n5ov0EeKUoMyrtK_jng"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-TyD8Yv0EeKEHaJx4-zWtw" path="Hive/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_-TyD8ov0EeKEHaJx4-zWtw" property="_-TyD8Iv0EeKEHaJx4-zWtw" state="_-TyD8Yv0EeKEHaJx4-zWtw" system="true" eltName="Hive">
+    <content href="HiveDropSourceTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>
