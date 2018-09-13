@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_47bpkbdnEeiJJO7vYUQq6w" label="cgen-git" language="java" technicalLabel="CGEN_GIT" creationDate="2018-09-13T10:38:56.470-0400" author="_47bpkrdnEeiJJO7vYUQq6w" productVersion="Talend Data Management Platform-6.1.1.20151214_1327" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/enoch-chuang/jpx&quot;,&quot;login&quot;:&quot;enoch-chuang&quot;,&quot;passwd&quot;:&quot;I/f6IX0OQ3b4glzLytqLMA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:Project xmi:id="_47bpkbdnEeiJJO7vYUQq6w" label="cgen-git" language="java" technicalLabel="CGEN_GIT" creationDate="2018-09-13T10:38:56.470-0400" author="_47bpkrdnEeiJJO7vYUQq6w" productVersion="Talend Data Management Platform-6.1.1.20151214_1327" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/enoch-chuang/jpx&quot;,&quot;login&quot;:&quot;enoch-chuang&quot;,&quot;passwd&quot;:&quot;I/f6IX0OQ3b4glzLytqLMA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_5YxF0LdnEeiJJO7vYUQq6w" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs4LdnEeiJJO7vYUQq6w" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs4bdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_5Yxs4rdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.RemoveBinFolderMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_5Yxs47dnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.UpdateExistentMigrationTasksToAdaptNewMigrationSystemMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs5LdnEeiJJO7vYUQq6w" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs5bdnEeiJJO7vYUQq6w" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs5rdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.RemoveRoutineJarDependencyTask" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs57dnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.ChangePostgresDbVersionForProjectSetting" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs6LdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.EncryptPasswordInProjectSettingsMigrationTask" breaks="5.4.1" version="5.4.3" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs6bdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.UnifyPasswordEncryption4ProjectSettingsMigrationTask" breaks="5.6.0" version="5.6.0" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs6rdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.ChangeComponentSettingNameMigrationTask" breaks="5.5.2" version="5.6.2" status="ok"/>
+    <migrationTask xmi:id="_5Yxs67dnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.RemoveRoutineAntlrJarDependencyTask" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs7LdnEeiJJO7vYUQq6w" id="org.talend.repository.model.migration.RemoveProjectLibsFolder" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_5Yxs7bdnEeiJJO7vYUQq6w" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
+  </TalendProperties:Project>
   <TalendProperties:User xmi:id="_47bpkrdnEeiJJO7vYUQq6w" login="pcapp@mail.nih.gov" firstName="pcapp" lastName="pcapp" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
