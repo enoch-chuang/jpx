@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_wThH0LeDEeibAs4GJ9RJsg" id="_wTU6kLeDEeibAs4GJ9RJsg" label="ODataSource" creationDate="2018-09-13T14:35:14.504-0400" modificationDate="2018-09-13T14:38:04.657-0400" version="0.1" statusCode="" item="_wThu4LeDEeibAs4GJ9RJsg" displayName="ODataSource">
+    <author href="../talend.project#_YHxVgreDEeibAs4GJ9RJsg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_wThH0beDEeibAs4GJ9RJsg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_wThu4LeDEeibAs4GJ9RJsg" property="_wThH0LeDEeibAs4GJ9RJsg" state="_wThH0beDEeibAs4GJ9RJsg">
+    <process href="ODataSource_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
