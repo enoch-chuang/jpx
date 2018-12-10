@@ -3,6 +3,7 @@ package com.chuang;
 public class Truck implements Vehicle {
 
 	private int doors;
+	private int clearance;
 	
 	public Truck(int doors) {
 		this.doors = doors;
@@ -23,6 +24,13 @@ public class Truck implements Vehicle {
 	public void setDoors(int doors) {
 		this.doors = doors;
 	}
-	
 
+	public int getClearance() {
+		return clearance;
+	}
+
+	public void setClearance(int clearance) {
+		this.clearance = clearance;
+	}
+	
 }
